@@ -13,7 +13,7 @@ This is a project deliberately visual design. `The component is fully responsive
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://raw.githubusercontent.com/mvrquxs/qr-code-component/screenshots/desktop-version.png)
+[![Product Name Screen Shot][product-screenshot]](https://raw.githubusercontent.com/mvrquxs/qr-code-component/main/screenshots/desktop-version.png)
 
 
 This challenge was proposed by the [**FrontEnd Mentor**](https://www.frontendmentor.io/solutions/component-qr-code-using-html-and-css-flexbox-BJyVMZaGq) platform. CSS with **Flexbox** implementation was used to position elements correctly.
@@ -68,4 +68,4 @@ This project is under license. See the [LICENSE](https://github.com/mvrquxs/qr-c
 
 [⬆ Back to top](#about-the-project)<br>
 
-[product-screenshot]: https://raw.githubusercontent.com/mvrquxs/qr-code-component/screenshots/desktop-version.png
+[product-screenshot]: https://raw.githubusercontent.com/mvrquxs/qr-code-component/main/screenshots/desktop-version.png
