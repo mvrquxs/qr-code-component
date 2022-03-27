@@ -35,7 +35,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+If not have, install GIT to be able to download the files listed in the repository.
 * GIT
 ```sh
 sudo apt-get install git
