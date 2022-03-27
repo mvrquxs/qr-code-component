@@ -1,10 +1,6 @@
 <!-- PROJECT SHIELDS -->
 <!--
-*** This template uses markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+*** https://github.com/mvrquxs/qr-code-component/
 -->
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 [![Last Commit](https://img.shields.io/github/last-commit/mvrquxs/qr-code-component)](http://shields.io/)
