@@ -41,7 +41,7 @@ If not have, install GIT to be able to download the files listed in the reposito
 sudo apt-get install git
 ```
 
-### Installation
+### Structuring
  
 1. Clone the repository
 ```sh
