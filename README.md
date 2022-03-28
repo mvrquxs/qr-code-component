@@ -16,7 +16,7 @@ This is a project deliberately visual design. `The component is fully responsive
 [![Product Name Screen Shot][product-screenshot]](https://raw.githubusercontent.com/mvrquxs/qr-code-component/main/screenshots/desktop-version.png)
 
 
-This challenge was proposed by the [**FrontEnd Mentor**](https://www.frontendmentor.io/solutions/component-qr-code-using-html-and-css-flexbox-BJyVMZaGq) platform. CSS with **Flexbox** implementation was used to position elements correctly.
+CSS with **Flexbox** was used to position elements correctly.
 
 ### Built With
 
