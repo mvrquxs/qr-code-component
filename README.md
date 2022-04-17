@@ -9,7 +9,7 @@
 
 This is a project deliberately visual design. `The component is fully responsive on all devices.`
 <br>**The purpose** of is to demonstrate a **responsive** minimalistic **card with a QR code.**<br>
-
+- [Clique aqui](https://lucasmvrquxs.notion.site/Qr-Code-Component-a4e9708020f5406c87ac75eff6122e7f) para visualizar a versão em PT-BR ![Brazil Flag](https://i.imgur.com/q5kVDne.png) desse projeto. <br>
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
